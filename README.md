@@ -103,20 +103,3 @@ This repository contains the source code for a bus reservation system. The syste
 ```
 `http://localhost:8080/swagger-ui.html`
 ```
-
-
-## Contributors
-
-* Contact information of this project for any suggestion or feedback.
-
-  
-    #### Deepanshu Deep
-    > Github:[Deepanshu-Deep](https://github.com/Deepanshu-Deep)
-    
-    > LinkedIn:[Deepanshu-Deep](https://www.linkedin.com/in/deepanshu-deep-8969a0242/)
-
-
- 
-
-
-# THANK YOU FOR VISITING OUR PROJECT
